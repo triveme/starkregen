@@ -1,0 +1,18 @@
+html, body, #root {
+  height: 100%;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+/* .leaflet-popup {
+  max-width: 90vw;
+}
+
+.dark-leaflet-popup .leaflet-popup-content-wrapper,
+.dark-leaflet-popup .leaflet-popup-tip {
+  background-color: #2f3a4e;
+}
+
+.light-leaflet-popup .leaflet-popup-content-wrapper,
+.light-leaflet-popup .leaflet-popup-tip {
+  background-color: #ffffff;
+} */

@@ -1,0 +1,27 @@
+const colors = {
+  white: "#FFFFFF",
+  grey: "#59637d",
+  lightGrey: "#cfd3dd",
+  primary: "#0070BA",
+  primaryDark: "#57839b",
+  primaryFifth: "rgba(0, 158, 227, 0.2)",
+  secondary: "#ED805C",
+  rejected: "#F44336",
+  backgroundDark: "#202b3f",
+  backgroundLight: "#f5f5f5",
+  paperDark: "#2f3a4e",
+  drawerDark: "#293244",
+  drawerLight: "#FFFFFF",
+  appBarDark: "-webkit-linear-gradient(71deg, #202b3f 0%, #2f3a4e 98%)",
+  appBarLight: "-webkit-linear-gradient(71deg, #0C2A5F 0%, rgb(0, 158, 227) 98%)",
+  drawerMenuIconDark: "#f0407e",
+  drawerMenuIconLight: "#f7c0d8",
+  drawerMenuBackgroundDark: "#f7c3d5",
+  drawerMenuBackgroundLight: "#7a2048",
+  lightBlueLight: "#0057A5",
+  lightBlueDark: "#308fe8",
+  linkColorLight: "#0066CC",
+  linkColorDark: "#00FFFF",
+};
+
+export default colors;
