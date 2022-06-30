@@ -1,5 +1,7 @@
 # Starkregenportal
 
+![Regenmelder](https://user-images.githubusercontent.com/98470818/176623996-1dc3672a-4c2e-4629-903c-e60db9360246.PNG)
+
 Quellcode - für ein Bürgerbeteiligungstool mit Schwerpunkt "Starkregenereignisse" www.starkregen-fulda.de
 
 Sie erinnern sich an ein vergangenes Starkregenereignis und dessen Folgen? Dann teilen Sie auf dieser Seite Ihre Erfahrungen und unterstützen Sie uns dabei, starkregengefährdete Gebiete zu identifizieren!
